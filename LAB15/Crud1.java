@@ -51,7 +51,7 @@ public class Crud1 {
         mainPanel.add(new JLabel(" "), mainConstraints);
          // System name
          JLabel systemNameLabel = new JLabel("SAMPLE CRUD DATABASE", JLabel.CENTER);
-         systemNameLabel.setFont(new Font("Arial", Font.BOLD, 50));
+         systemNameLabel.setFont(new Font("Arial", Font.BOLD, 25));
          mainConstraints.gridy = 3;
          mainPanel.add(systemNameLabel, mainConstraints);
  
